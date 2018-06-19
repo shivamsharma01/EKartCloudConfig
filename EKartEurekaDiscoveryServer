@@ -1,0 +1,2 @@
+eureka.client.fetch-registry=false
+eureka.client.registry-with-eureka=false
